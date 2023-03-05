@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CIS_E-Sport/1.0.0": {
+        "runtime": {
+          "CIS_E-Sport.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CIS_E-Sport/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
